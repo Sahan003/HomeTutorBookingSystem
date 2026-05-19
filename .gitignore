@@ -12,7 +12,12 @@ target/
 *.iws
 *.iml
 *.ipr
+users.txt
+tutors.txt
+bookings.txt
 
+src/main/webapp/uploads/*
+!src/main/webapp/uploads/.gitkeep
 ### Eclipse ###
 .apt_generated
 .classpath
